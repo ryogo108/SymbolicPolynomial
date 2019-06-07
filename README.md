@@ -1,4 +1,1 @@
 # SymbolicPolynomial
-# SymbolicPolynomial
-# SymbolicPolynomial
-# SymbolicPolynomial
